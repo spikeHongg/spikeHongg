@@ -1,22 +1,18 @@
-# Agent & AI Application Developer
+**Agent & AI Application Developer · Open-source Contributor**
 
-**Agent / AI 应用开发者 · 开源贡献者（Open-source Contributor）**
-
-Building AI applications, agent workflows, and open-source tools.
-
-## Featured projects
+## Selected projects
 
 ### [MailGuard · 清邮](https://github.com/spikeHongg/mailguard-expert)
 
-邮件安全研判工具，提供原文证据与人工复核建议。支持 Agent Skill 与本地 HTTP API。
+邮件安全研判，提供原文证据与复核建议。支持 Agent Skill 与本地 API。
 
-Email risk analysis with source evidence and human review, available as an agent skill and a local API.
+[安装](https://github.com/spikeHongg/mailguard-expert/blob/main/INSTALL.md) · [调用示例](https://github.com/spikeHongg/mailguard-expert/blob/main/docs/local-api.md#可直接运行的调用示例) · [Releases](https://github.com/spikeHongg/mailguard-expert/releases)
 
 ### [China Stock Research Skills · A 股研究](https://github.com/spikeHongg/china-stock-research-skills)
 
-模块化股票研究 Agent Skills，基于公开资料生成带来源引用的结构化中文研究报告。
+基于公开信息的 A 股研究 Skills，输出带来源引用的结构化中文研究报告。
 
-Composable agent skills for structured A-share research with source citations.
+[安装](https://github.com/spikeHongg/china-stock-research-skills/blob/main/INSTALL.md) · [示例](https://github.com/spikeHongg/china-stock-research-skills/blob/main/examples/full-report-flow.md) · [Releases](https://github.com/spikeHongg/china-stock-research-skills/releases)
 
 ## More tools
 
