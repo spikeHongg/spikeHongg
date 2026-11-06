@@ -1,6 +1,6 @@
 # Agent & AI Application Developer
 
-**Agent / AI 应用开发者 · 研发人员**
+**Agent / AI 应用开发者 · 开源贡献者（Open-source Contributor）**
 
 Building AI applications, agent workflows, and open-source tools.
 
