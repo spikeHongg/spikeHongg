@@ -18,6 +18,14 @@ Agent skills for A-share research using public information, producing structured
 
 [安装](https://github.com/spikeHongg/china-stock-research-skills/blob/main/INSTALL.md) · [示例](https://github.com/spikeHongg/china-stock-research-skills/blob/main/examples/full-report-flow.md) · [Releases](https://github.com/spikeHongg/china-stock-research-skills/releases)
 
+### [STE100 Chinese · 中文技术写作](https://github.com/spikeHongg/ste100-chinese)
+
+面向 AI Agent 的简明中文技术写作 Skill，强调清晰表达、术语一致和技术语义保真。
+
+A Chinese technical-writing skill for AI agents, focused on clarity, consistent terminology, and preserving technical meaning.
+
+[安装](https://github.com/spikeHongg/ste100-chinese/blob/main/README.md#让-agent-帮你安装) · [写作示例](https://github.com/spikeHongg/ste100-chinese/blob/main/references/writing-examples.md) · [Releases](https://github.com/spikeHongg/ste100-chinese/releases)
+
 ## More tools
 
 [Simple Claude Statusline](https://github.com/spikeHongg/simple-claude-statusline) — A lightweight Bash + jq statusline for Claude Code.
