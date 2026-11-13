@@ -26,6 +26,14 @@ A Chinese technical-writing skill for AI agents, focused on clarity, consistent 
 
 [安装](https://github.com/spikeHongg/ste100-chinese/blob/main/README.md#让-agent-帮你安装) · [写作示例](https://github.com/spikeHongg/ste100-chinese/blob/main/references/writing-examples.md) · [Releases](https://github.com/spikeHongg/ste100-chinese/releases)
 
+### [dev-docs-lifecycle · 开发文档生命周期](https://github.com/spikeHongg/dev-docs-lifecycle)
+
+面向 AI 编程 Agent 的开发文档管理 Skill，支持增量维护、文档审查、索引与证据保留。提供 Pi 项目级 on/off 开关，目前为 v0.2.0 原型预发布版本。
+
+A development-document lifecycle skill for AI coding agents, covering incremental maintenance, documentation audits, indexes, and evidence preservation. Includes a project-level on/off switch for Pi; currently a v0.2.0 prototype prerelease.
+
+[使用说明](https://github.com/spikeHongg/dev-docs-lifecycle/blob/main/README.md) · [Pi 开关](https://github.com/spikeHongg/dev-docs-lifecycle/blob/main/dev-docs-lifecycle-prototype-v0.2/docs/guides/pi-mode-control.md) · [Releases](https://github.com/spikeHongg/dev-docs-lifecycle/releases)
+
 ## More tools
 
 [Simple Claude Statusline](https://github.com/spikeHongg/simple-claude-statusline) — A lightweight Bash + jq statusline for Claude Code.
